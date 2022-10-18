@@ -4,7 +4,7 @@ using namespace std;
 
 int  main()
 {
-    bool n;
+	bool n;
 	char ch;
 	int integer;
 	float fl;
@@ -71,7 +71,7 @@ int main()
 	n %= 10;
 	m %= 10;
 	cout << "Remainder of the division with 10: " << n << " " << m << endl;
-	return 0;
+	return 0;	
 }*/
 
 /*Ex.4
