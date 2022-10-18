@@ -95,3 +95,6 @@ int main()
 	cout << "Second variable: " << m << endl;
 	return 0;
 }*/
+
+/*Ex.5
+*/
